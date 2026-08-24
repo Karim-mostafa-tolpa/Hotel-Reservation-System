@@ -1,0 +1,4 @@
+Room Charges,230
+Tax (90%),207
+Room Charges,200
+Tax (15%),30

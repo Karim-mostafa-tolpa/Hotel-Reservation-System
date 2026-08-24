@@ -1,0 +1,2 @@
+Room Charges,400
+Tax (15%),60

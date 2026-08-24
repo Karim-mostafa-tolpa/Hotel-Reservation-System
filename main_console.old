@@ -1,0 +1,13 @@
+
+
+#include <iostream>
+#include "ApplicationManager.h"
+// عملنا انكلود للهيدر بتاع الفايل
+using namespace std;
+
+int main() {
+    ApplicationManager app;
+    //عرفنا الفايل باسم app كونستراكتر
+    app.run();
+    return 0;
+}

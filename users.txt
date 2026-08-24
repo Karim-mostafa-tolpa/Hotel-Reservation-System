@@ -1,0 +1,5 @@
+admin,admin,admin123
+guest,omar,abdo
+guest,mohamed,1234
+guest,omar,123
+guest,karim,123456
